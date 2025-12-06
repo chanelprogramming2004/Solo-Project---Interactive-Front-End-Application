@@ -53,7 +53,8 @@ header {
 }
 
 .card audio {
-    width: 100%;       /* make audio stretch across the card */
-    margin-top: 10px;  /* some space above the audio */
-    display: block;    /* ensures it behaves like a block element */
+    width: 100%;       
+    margin-top: 10px;  
+    display: block;    
+
 }
