@@ -16,11 +16,16 @@ Technologies Used:
 HTML5
 CSS3
 JavaScript (ES6)
-iTunes Search API (https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/?utm_source=chatgpt.com)
+iTunes Search API (https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html)
+
+Features:
+
+Interactive search that fetches data from the iTunes API
+Displays song information in a responsive grid layout
+Playable audio previews for each track
+Responsive design for mobile and desktop
 
 The screenshot in the repository (Application screenshot.png) showcases the iTunes Music Search app in action. The user has searched for “Beyoncé,” and the app displays a responsive grid of song results, featuring album artwork, track names, artist names, and playable 30-second previews. Each result card is clearly separated, and the layout adapts seamlessly to both desktop and smaller screens.
 
 Live Demo
-
-Check out the live application here:
-
+Check out the live application here: https://chanelprogramming2004.github.io/Solo-Project---Interactive-Front-End-Application/
